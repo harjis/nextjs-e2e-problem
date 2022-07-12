@@ -1,3 +1,13 @@
-# Create T3 App
+# How to reproduce:
 
-This is an app bootstrapped according to the [init.tips](https://init.tips) stack, also known as the T3-Stack.
+1. Run server
+
+```shell
+npm run dev
+```
+
+2. Run test in other shell
+
+```shell
+npm run cy:open
+```
